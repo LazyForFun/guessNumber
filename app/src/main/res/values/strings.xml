@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="title">猜數字</string>
+    <string name="submit">檢查答案</string>
+    <string name="restart">再來一局</string>
+    <string name="guess_history">猜題記錄</string>
+</resources>
